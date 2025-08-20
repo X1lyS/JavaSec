@@ -1,5 +1,11 @@
 # JavaSec
 > 记录Java安全学习
+
+## 待写
+* 多态
+* 文件读取与下载操作
+* 数据库操作
+
 ## 基础
 
 * [泛型](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E6%B3%9B%E5%9E%8B.md)
