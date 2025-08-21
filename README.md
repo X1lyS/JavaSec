@@ -14,6 +14,7 @@
 * [类加载机制](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
 * [数据库操作](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%93%8D%E4%BD%9C.md)
 * [文件上传操作](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E6%93%8D%E4%BD%9C.md)
+* [文件读取下载操作](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E4%B8%8B%E8%BD%BD%E6%93%8D%E4%BD%9C.md)
 * [命令执行操作](https://github.com/X1lyS/JavaSec/blob/main/%E5%9F%BA%E7%A1%80/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%93%8D%E4%BD%9C.md)
 
 ## 漏洞分析
